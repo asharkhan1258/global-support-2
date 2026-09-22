@@ -23,12 +23,12 @@ img {
 }
 
 :root {
-    --primary: #035757;
-    --primary-dark: #023f3f;
-    --primary-light: #eaf4f2;
-    --secondary: #9bc7b3;
-    --text: #173c3b;
-    --paragraph: #697977;
+    --primary: #51c6c6;
+    --primary-dark: #3caf8f;
+    --primary-light: #08110f;
+    --secondary: #4deca5;
+    --text: #0a1111;
+    --paragraph: #2c2f2f;
     --white: #ffffff;
     --border: #dce8e4;
 }
@@ -105,7 +105,7 @@ img {
 }
 
 .executive-page-content {
-    background: rgba(3, 87, 87, 0.86);
+    background: #3caf8f;
     padding: 55px 30px;
     border-radius: 10px;
 }
@@ -642,7 +642,7 @@ img {
 ===================================================== */
 
 .executive-footer {
-    background: #052e2e;
+    background: #3caf8f;
     color: #ffffff;
     padding-top: 70px;
 }
@@ -692,7 +692,7 @@ img {
 }
 
 .executive-footer p {
-    color: #b7ceca;
+    color: #fff;
     line-height: 1.8;
 }
 
@@ -720,7 +720,7 @@ img {
 }
 
 .footer-links a {
-    color: #b7ceca;
+    color: #fff;
     transition: 0.3s;
 }
 
@@ -733,7 +733,7 @@ img {
     display: flex;
     gap: 13px;
     margin-bottom: 18px;
-    color: #b7ceca;
+    color: #fff;
 }
 
 .footer-contact i {
@@ -742,7 +742,7 @@ img {
 }
 
 .footer-contact a {
-    color: #b7ceca;
+    color: #fff;
     word-break: break-word;
 }
 
@@ -766,7 +766,7 @@ img {
 
 .footer-policy-links a {
     display: inline-block;
-    color: #b7ceca;
+    color: #fff;
     font-size: 13px;
     margin-left: 18px;
 }
@@ -854,7 +854,7 @@ img {
 ===================================================== */
 
 .executive-benefits-box {
-    background: #035757;
+    background: #3caf8f;
     margin-top: 80px;
     padding: 65px;
     border-radius: 16px;
@@ -1074,7 +1074,7 @@ img {
 /* Featured Plan */
 
 .es-featured-plan {
-    background: #035757;
+    background: #51c6c6;
     border-color: #035757;
 }
 
@@ -1247,7 +1247,7 @@ img {
     justify-content: center;
     gap: 10px;
 
-    background: #035757;
+    background: #51c6c6;
     border: 1px solid #035757;
     color: #ffffff;
 
@@ -1261,8 +1261,8 @@ img {
 }
 
 .es-pricing-btn:hover {
-    background: #023f3f;
-    border-color: #023f3f;
+    background: #3caf8f;
+    border-color: #3caf8f;
     color: #ffffff;
 }
 
@@ -1350,7 +1350,7 @@ img {
 /* Open Accordion */
 
 .es-faq-accordion .accordion-button:not(.collapsed) {
-    background: #035757;
+    background: #3caf8f;
     color: #ffffff;
     box-shadow: none;
 }
